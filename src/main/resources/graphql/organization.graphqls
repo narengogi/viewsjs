@@ -1,7 +1,0 @@
-type Organization {
-    id: ID
-}
-
-extend type Query {
-    organization(id: ID): Organization
-}

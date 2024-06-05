@@ -1,0 +1,6 @@
+component,props,description
+"EarningCard","none","This Component shows the user their earnings"
+"PopularCard","none","This Component shows the user the popular stocks in the market at that moment"
+"TotalGrowthBarChart","none","This component shows the user how their portfolio has been performing over the past few months, it shows loss, profit, maintenence and investment"
+"TotalIncomeDarkCard","none","This component shows the user their total income"
+"TotalOrderLineChartCard","none","This component shows the user their buy and sell current orders in progress"
